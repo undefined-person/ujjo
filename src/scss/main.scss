@@ -1,0 +1,15 @@
+@import "vars";
+@import "mixins";
+@import "fonts";
+@import "settings";
+
+// Partials
+@import "./components/header";
+@import "./components/hero";
+
+// Components
+@import "./components/btn";
+@import "./components/border-block";
+@import "./components/nav";
+@import "./components/logo";
+@import "./components/ticker";
